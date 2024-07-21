@@ -8,17 +8,18 @@
     "discord-api-types": "^0.37.92",
     "dotenv": "^16.4.5",
     "rimraf": "^6.0.1",
+    "type-fest": "^4.22.1",
     "typescript": "^5.5.3",
     "wrangler": "^3.65.1"
   },
   "license": "MIT",
   "scripts": {
-		"biome": "npx @biomejs/biome check --write src",
-		"build": "tsc",
-		"clean": "rimraf dist",
-		"deploy": "wrangler deploy",
-		"register-commands": "node -r dotenv/config dist/utility/register.js",
-		"sync": "npm run build && npm run register-commands && npm run clean"
+    "biome": "npx @biomejs/biome check --write src",
+    "build": "tsc",
+    "clean": "rimraf dist",
+    "deploy": "wrangler deploy",
+    "register-commands": "node -r dotenv/config dist/utility/register.js",
+    "sync": "npm run build && npm run register-commands && npm run clean"
   },
-	"type": "module"
+  "type": "module"
 }
