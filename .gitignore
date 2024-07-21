@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Generated output
+dist/
+
+# Wrangler
+.wrangler/
+wrangler.toml

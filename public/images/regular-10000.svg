@@ -1,0 +1,14 @@
+<svg viewbox="0,0,160,160">
+  <g transform="translate(15, 73) rotate(-45, 65, 7)">
+    <rect width="130" height="14" rx="2.5" fill="#FFFFFF" />
+    <circle cx="45" cy="7" r="3" fill="#1F8B4C" />
+    <circle cx="55" cy="7" r="1.5" fill="#FF0000" />
+    <circle cx="60" cy="4.6" r="1.5" fill="#FF0000" />
+    <circle cx="60" cy="9.4" r="1.5" fill="#FF0000" />
+    <circle cx="65" cy="7" r="2" fill="#1F8B4C" />
+    <circle cx="70" cy="4.6" r="1.5" fill="#FF0000" />
+    <circle cx="70" cy="9.4" r="1.5" fill="#FF0000" />
+    <circle cx="75" cy="7" r="1.5" fill="#FF0000" />
+    <circle cx="85" cy="7" r="3" fill="#1F8B4C" />
+  </g>
+</svg>
